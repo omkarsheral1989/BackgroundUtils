@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/sheral/omkar/backgroudutils/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/Backgound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/BackgroundTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/BackgroundUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/DoInBackground.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/DoInBackgroundListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/OnCancelledListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/OnPostExecute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/OnPostExecuteListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/OnPreExecuteListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/backgroundutils/src/main/java/com/sheral/omkar/backgroundutils/OnProgressUpdateListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/delta/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/android/DeltaApplication.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="b901b4e9-361b-4b56-8361-72f68ded2358" />
+                <option name="line" value="58" />
+                <option name="message" value="Make makeForceUpdateCheck a static final constant or non-public and provide accessors if needed." />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="39f72a26-8df5-4962-8638-8f21967d121c" />
+                <option name="line" value="58" />
+                <option name="message" value="Make this &quot;public static makeForceUpdateCheck&quot; field final" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="3a04ae36-0834-47e4-97de-95a556b19498" />
+                <option name="line" value="274" />
+                <option name="message" value="Rename &quot;secretKey&quot; which hides the field declared at line 66." />
+                <option name="ruleKey" value="squid:HiddenFieldCheck" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="cfa7d035-53b9-4616-b329-9338cc648ab7" />
+                <option name="line" value="65" />
+                <option name="message" value="Make environmentsManager a static final constant or non-public and provide accessors if needed." />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="5d9a6c73-444f-427d-b012-984658b6c015" />
+                <option name="line" value="65" />
+                <option name="message" value="Make this &quot;public static environmentsManager&quot; field final" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVkcT_pb7CdnJ3rynGMY" />
+                <option name="message" value="25 more branches need to be covered by unit tests to reach the minimum threshold of 65.0% branch coverage." />
+                <option name="ruleKey" value="common-java:InsufficientBranchCoverage" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="b69ca659-f99c-4aac-b9cc-ae9bc84b2766" />
+                <option name="line" value="374" />
+                <option name="message" value="Remove this unused &quot;airportDatabaseCopyHelper&quot; local variable." />
+                <option name="ruleKey" value="squid:S1481" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="d1d3bb6b-6d9f-4bb6-a859-a94e305abb2e" />
+                <option name="line" value="68" />
+                <option name="message" value="Make forUnitTest a static final constant or non-public and provide accessors if needed." />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="ebc4a1bc-bd10-430c-922d-0522df7f446f" />
+                <option name="line" value="68" />
+                <option name="message" value="Make this &quot;public static forUnitTest&quot; field final" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="7e51a7b8-f44d-4d2a-9312-2d01e5c47f54" />
+                <option name="line" value="53" />
+                <option name="message" value="Cast one of the operands of this multiplication operation to a &quot;long&quot;." />
+                <option name="ruleKey" value="squid:S2184" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="106a10c6-de61-41f8-bd20-83a08ff1e47f" />
+                <option name="line" value="57" />
+                <option name="message" value="Make this &quot;public static forceAppUpdateTimer&quot; field final" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="03e6d7e2-b5b7-460a-a05a-f6dd134717fe" />
+                <option name="line" value="57" />
+                <option name="message" value="Make forceAppUpdateTimer a static final constant or non-public and provide accessors if needed." />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="5f4e0e87-7ba8-4ce0-bd9f-b0b23e3b18e6" />
+                <option name="line" value="59" />
+                <option name="message" value="Make forceAppUpdate a static final constant or non-public and provide accessors if needed." />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="d330447b-80d2-430f-b3cf-440ec9811e90" />
+                <option name="line" value="59" />
+                <option name="message" value="Make this &quot;public static forceAppUpdate&quot; field final" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/android/itineraries/FlightDetailsPolaris.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/android/schedules/RegisterFlightScheduleNotificationsOnClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/services/gcm/GCMRegistrar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/services/gcm/MyFirebaseInstanceIDService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/services/gcm/MyFirebaseMessagingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/FlyDelta/src/main/java/com/delta/mobile/util/EnvironmentsManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Delta/droid/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
